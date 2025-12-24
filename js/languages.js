@@ -84,6 +84,50 @@ var languages = {
     "tutorial_remove": "¡Es perfecto!  Ahora tu cosa está en la historia de compras, que por la siguiente vez lo podrías encontrar más fácil.\nPon el botón otra vez por un momento para quitarlo completo de la historia de compras.",
     "tutorial_close": "Eso fue todo el tutorial con todas las funciones importantes.\n¡Un placer por ayudarte en tu próxima compra!"
   },
+  "hu": {
+    "buy": "Megvásárlásra vár",
+    "last": "Vásárláselőzmények",
+    "search": "Tétel hozzáadása...",
+    "bt_export": "Exportálás",
+    "bt_import": "Importálás",
+    "about_title": "Névjegy",
+    "export_message": "Ezt a fájlt a Traero exportálta",
+    "update_message": "{0} frissítette a Traero listát",
+    "update_item_txt": "tétel",
+    "update_items_txt": "tétel",
+
+    //toasts
+    "toast_fist_start": "Megnyitja az ismertetőt?",
+    "toast_undo": "Visszavonás?",
+
+    //languages
+    "language_title": "Nyelv",
+    "bt_automatic": "Automatikus",
+    "language_name": "Magyar",
+
+    //themes
+    "themes_title": "Témák",
+    "bt_default_theme": "Alapértelmezett",
+
+    //styles
+    "style_oled": "Sötét (OLED)",
+    "style_dark": "Sötét",
+    "style_light": "Világos",
+    "style_yb": "Sárga-Kék",
+    "style_eink": "E-papír",
+    "style_zuflucht": "Menedékszálló",
+
+    //Tutorial
+    "tutorial_title": "Ismertető",
+    "tutorial_button_cancel": "Mégsem",
+    "tutorial_button_next": "Befejezés",
+    "tutorial_add": "Írja be lent annak a tételnek a nevét amit vásárolna!",
+    "tutorial_edit": "Remek. Most nyomja meg a felvett tételhez tartozó gombot!",
+    "tutorial_edit_change": "Most szerkesztés üzemmódban van ahol módosíthatja a tétel tulajdonságait.\nVesszővel elválasztva megadhatja a darabszámot.",
+    "tutorial_check": "Kattintson a tételre, hogy megvásároltnak jelölje!",
+    "tutorial_remove": "Tökéletes! Ezzel bekerült a vásárláselőzményeibe, így legközelebb gyorsabban elérheti.\nMost távolítsa el a vásárláselőzményekből a tételt annak hosszan nyomva tartásával!",
+    "tutorial_close": "Ezzel befejeződött a legfontosabb funkciók ismertetője.\nÉlményekben dús vásárlást kívánunk!"
+  },
   "pt": {
      "buy": "Comprar",
      "last": "Comprado recentemente",
