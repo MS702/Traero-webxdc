@@ -84,6 +84,50 @@ var languages = {
     "tutorial_remove": "¡Es perfecto!  Ahora tu cosa está en la historia de compras, que por la siguiente vez lo podrías encontrar más fácil.\nPon el botón otra vez por un momento para quitarlo completo de la historia de compras.",
     "tutorial_close": "Eso fue todo el tutorial con todas las funciones importantes.\n¡Un placer por ayudarte en tu próxima compra!"
   },
+  "hu": {
+    "buy": "Megvásárlásra vár",
+    "last": "Vásárláselőzmények",
+    "search": "Tétel hozzáadása...",
+    "bt_export": "Exportálás",
+    "bt_import": "Importálás",
+    "about_title": "Névjegy",
+    "export_message": "Ezt a fájlt a Traero exportálta",
+    "update_message": "{0} frissítette a Traero listát",
+    "update_item_txt": "tétel",
+    "update_items_txt": "tétel",
+
+    //toasts
+    "toast_fist_start": "Megnyitja az ismertetőt?",
+    "toast_undo": "Visszavonás?",
+
+    //languages
+    "language_title": "Nyelv",
+    "bt_automatic": "Automatikus",
+    "language_name": "Magyar",
+
+    //themes
+    "themes_title": "Témák",
+    "bt_default_theme": "Alapértelmezett",
+
+    //styles
+    "style_oled": "Sötét (OLED)",
+    "style_dark": "Sötét",
+    "style_light": "Világos",
+    "style_yb": "Sárga-Kék",
+    "style_eink": "E-papír",
+    "style_zuflucht": "Menedékszálló",
+
+    //Tutorial
+    "tutorial_title": "Ismertető",
+    "tutorial_button_cancel": "Mégsem",
+    "tutorial_button_next": "Befejezés",
+    "tutorial_add": "Írja be lent annak a tételnek a nevét amit vásárolna!",
+    "tutorial_edit": "Remek. Most nyomja meg a felvett tételhez tartozó gombot!",
+    "tutorial_edit_change": "Most szerkesztés üzemmódban van ahol módosíthatja a tétel tulajdonságait.\nVesszővel elválasztva megadhatja a darabszámot.",
+    "tutorial_check": "Kattintson a tételre, hogy megvásároltnak jelölje!",
+    "tutorial_remove": "Tökéletes! Ezzel bekerült a vásárláselőzményeibe, így legközelebb gyorsabban elérheti.\nMost távolítsa el a vásárláselőzményekből a tételt annak hosszan nyomva tartásával!",
+    "tutorial_close": "Ezzel befejeződött a legfontosabb funkciók ismertetője.\nÉlményekben dús vásárlást kívánunk!"
+  },
   "pt": {
      "buy": "Comprar",
      "last": "Comprado recentemente",
@@ -831,48 +875,48 @@ var languages = {
         "tutorial_remove": "নিখুঁত! এখন এটি আপনার কেনাকাটার ইতিহাসে রয়েছে, যাতে আপনি পরের বার এটি দ্রুত খুঁজে পেতে পারেন।\nএখন আপনার জিনিসটি কেনাকাটার ইতিহাস থেকে সম্পূর্ণরূপে মুছে ফেলার জন্য আবার কিছুক্ষণের জন্য টিপুন।",
         "tutorial_close": "এটি ছিল এর সমস্ত কার্যকারিতার গুরুত্ব সহ সম্পূর্ণ টিউটোরিয়াল।\nআপনার পরবর্তী শপিং ট্যুরে মজা করুন!"
       },
-  "sk": {
-    "buy": "Kúpiť",
-    "last": "Nakúpené",
-    "search": "Potrebujem...",
-    "bt_export": "Exportovať",
-    "bt_import": "Importovať",
-    "about_title": "O aplikácii",
-    "export_message": "Tento súbor je exportovaný z aplikácie Traero",
-    "update_message": "{0} aktualizoval(a) zoznam v aplikácii Traero",
-    "update_item_txt": "položka",
-    "update_items_txt": "položiek",
+      "sk": {
+        "buy": "Kúpiť",
+        "last": "Nakúpené",
+        "search": "Potrebujem...",
+        "bt_export": "Exportovať",
+        "bt_import": "Importovať",
+        "about_title": "O aplikácii",
+        "export_message": "Tento súbor je exportovaný z aplikácie Traero",
+        "update_message": "{0} aktualizoval(a) zoznam v aplikácii Traero",
+        "update_item_txt": "položka",
+        "update_items_txt": "položiek",
 
-    //toasts
-    "toast_fist_start": "Zobraziť tutoriál?",
-    "toast_undo": "Vrátiť späť?",
+        //toasts
+        "toast_fist_start": "Zobraziť tutoriál?",
+        "toast_undo": "Vrátiť späť?",
 
-    //languages
-    "language_title": "Jazyk",
-    "bt_automatic": "Automaticky",
-    "language_name": "Slovenčina",
+        //languages
+        "language_title": "Jazyk",
+        "bt_automatic": "Automaticky",
+        "language_name": "Slovenčina",
 
-    //themes
-    "themes_title": "Vzhľad",
-    "bt_default_theme": "Predvolený",
+        //themes
+        "themes_title": "Vzhľad",
+        "bt_default_theme": "Predvolený",
 
-    //styles
-    "style_oled": "Tmavý (OLED)",
-    "style_dark": "Tmavý",
-    "style_light": "Svetlý",
-    "style_yb": "Žltomodrý",
+        //styles
+        "style_oled": "Tmavý (OLED)",
+        "style_dark": "Tmavý",
+        "style_light": "Svetlý",
+        "style_yb": "Žltomodrý",
 
-    //Tutorial
-    "tutorial_title": "Tutoriál",
-    "tutorial_button_cancel": "Zrušiť",
-    "tutorial_button_next": "Ukončiť",
-    "tutorial_add": "V spodnej časti pridajte názov položky, ktorú si želáte kúpiť.",
-    "tutorial_edit": "Výborne, Teraz nachvíľu pridržte položku, ktorú ste práve pridali stlačenú.",
-    "tutorial_edit_change": "Teraz ste v režime úprav. Položku môžete upraviť.\nOkrem názvu môžete napísať čiarku a za čiarkou uviesť počet.",
-    "tutorial_check": "Kliknite na položku a označte ju tak ako nakúpenú.",
-    "tutorial_remove": "Nádhera! Položka je teraz v histórii nákupov a môžete ju rýchlo nájsť, ak by ste ju potrebovali kúpiť znovu.\nZ histórie nákupov položku úplne odstránite tak, že ju stlačíte a pridržíte stlačenú.",
-    "tutorial_close": "Predstavili sme vám všetky užitočné funkcie aplikácie.\nPríjemnú zábavu pri ďalších nákupoch!"
-  },
+        //Tutorial
+        "tutorial_title": "Tutoriál",
+        "tutorial_button_cancel": "Zrušiť",
+        "tutorial_button_next": "Ukončiť",
+        "tutorial_add": "V spodnej časti pridajte názov položky, ktorú si želáte kúpiť.",
+        "tutorial_edit": "Výborne, Teraz nachvíľu pridržte položku, ktorú ste práve pridali stlačenú.",
+        "tutorial_edit_change": "Teraz ste v režime úprav. Položku môžete upraviť.\nOkrem názvu môžete napísať čiarku a za čiarkou uviesť počet.",
+        "tutorial_check": "Kliknite na položku a označte ju tak ako nakúpenú.",
+        "tutorial_remove": "Nádhera! Položka je teraz v histórii nákupov a môžete ju rýchlo nájsť, ak by ste ju potrebovali kúpiť znovu.\nZ histórie nákupov položku úplne odstránite tak, že ju stlačíte a pridržíte stlačenú.",
+        "tutorial_close": "Predstavili sme vám všetky užitočné funkcie aplikácie.\nPríjemnú zábavu pri ďalších nákupoch!"
+      },
 }
 
 function translate(name, replaces=[])
