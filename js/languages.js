@@ -84,6 +84,47 @@ var languages = {
     "tutorial_remove": "¡Es perfecto!  Ahora tu cosa está en la historia de compras, que por la siguiente vez lo podrías encontrar más fácil.\nPon el botón otra vez por un momento para quitarlo completo de la historia de compras.",
     "tutorial_close": "Eso fue todo el tutorial con todas las funciones importantes.\n¡Un placer por ayudarte en tu próxima compra!"
   },
+  "ca": {
+    "buy": "Per comprar",
+    "last": "Comprat recentment",
+    "search": "Necessito...",
+    "bt_export": "Exportar",
+    "bt_import": "Importar",
+    "about_title": "Informació",
+    "export_message": "Aquest arxiu s'ha exportat amb Traero",
+    "update_message": "{0} ha actualitzat el llistat en Traero",
+    "update_item_txt": "element",
+    "update_items_txt": "elements",
+
+    //toasts
+    "toast_fist_start": "Obrir tutorial?",
+    "toast_undo": "Desfer?",
+
+    //languages
+    "language_title": "Llengua",
+    "bt_automatic": "Automàticament",
+    "language_name": "Català",
+
+    //themes
+    "themes_title": "Estil",
+    "bt_default_theme": "Estàndar",
+
+    //styles
+    "style_oled": "Fosc (OLED)",
+    "style_dark": "Fosc",
+    "style_light": "Brillant",
+    "style_yb": "Groc-Blau",
+
+    //Tutorial
+    "tutorial_button_cancel": "Cancel·lar",
+    "tutorial_button_next": "Finalitzar",
+    "tutorial_add": "Escriu avall un nom d'una cosa que vulguis comprar.",
+    "tutorial_edit": "Molt bé, ara mantén premut durant una estona el botó de la teva cosa.",
+    "tutorial_edit_change": "Ara estàs en mode edició per fer canvis a la teva cosa.\nEscriu darrere del nom de la teva cosa, separat per una coma, quina quantitat necessites d'aquesta cosa (p. ex. 'ceba,2').",
+    "tutorial_check": "Toca el botó de la teva cosa per marcar-ho com a comprat.",
+    "tutorial_remove": "Perfecte! Ara la teva cosa passarà a l'historial de compres, per trobar-ho més fàcilment a la pròxima.\nSi la vols esborrar de l'historial, mantén premut per esborrar-la completament.",
+    "tutorial_close": "Has finalitzat el tutorial de les funcions principals.\nGaudeix en la teva pròxima compra!"
+  },
   "hu": {
     "buy": "Megvásárlásra vár",
     "last": "Vásárláselőzmények",
