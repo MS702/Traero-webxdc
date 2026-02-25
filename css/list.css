@@ -10,6 +10,7 @@
 			-ms-hyphens: auto;
 					hyphens: auto;
 	padding: 5px;
+	overflow: hidden;
 }
 #item #title {
 		font-size: var(--item-title-font-size);
