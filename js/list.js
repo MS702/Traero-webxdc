@@ -334,7 +334,7 @@ function export_metadata()
 
 function update_list()
 {
-  for (const name in metadata)
+  for (const name of Object.keys(metadata).sort())
   {
     if (!(name in objects))
     {
