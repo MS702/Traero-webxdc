@@ -4,7 +4,7 @@
 
 A modern shopping list for the webxdc-platform (Delta Chat)
 
-## Roadmap [v1.X] (~Q2 2026)
+## Roadmap [v1.X]
 - full rewrite (event and modul based)
 - full compatible to v0.X import/export format
 - delta sync
